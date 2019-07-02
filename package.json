@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Jhemeson/wrobo/issues"
   },
-  "homepage": "https://github.com/Jhemeson/wrobo#readme"
+  "homepage": "https://github.com/Jhemeson/wrobo#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  }
 }
